@@ -15,7 +15,12 @@
 [scatterplot.html](d3_update/scatterplot.html)<br>
 
 ## Aula do dia 09/10/2019
+[network1.html](d3_network/similar-song-network/index.html)<br>
+[network2.html](d3_network/les-miserables/index.html)<br>
+
+## Aula do dia 16/10/2019
 [cor.html](d3_color/taxa-de-desemprego-nos-eua-em-agosto-de-2016/index.html)<br>
+
 ---
 
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
