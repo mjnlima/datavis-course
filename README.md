@@ -11,6 +11,9 @@
 [index09.html](basic/index09.html)<br>
 [index10.html](basic/index10.html)<br>
 
+## Aula do dia 16/09/2019
+[scatterplot.html](d3_update/scatterplot.html)<br>
+
 ---
 
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
