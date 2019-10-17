@@ -1,0 +1,14 @@
+{
+  "name": "@mjnlima/taxa-de-desemprego-nos-eua-em-agosto-de-2016",
+  "main": "d/7386af7a9e379dc4.js",
+  "version": "87.0.0",
+  "homepage": "https://observablehq.com/@mjnlima/taxa-de-desemprego-nos-eua-em-agosto-de-2016",
+  "author": {
+    "name": "mjnlima",
+    "url": "https://observablehq.com/@mjnlima"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

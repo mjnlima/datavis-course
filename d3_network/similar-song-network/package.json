@@ -1,0 +1,14 @@
+{
+  "name": "@mjnlima/similar-song-network",
+  "main": "d/7e4bc6d9fe99ac3d.js",
+  "version": "88.0.0",
+  "homepage": "https://observablehq.com/@mjnlima/similar-song-network",
+  "author": {
+    "name": "mjnlima",
+    "url": "https://observablehq.com/@mjnlima"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

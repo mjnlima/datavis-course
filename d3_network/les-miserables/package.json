@@ -1,0 +1,14 @@
+{
+  "name": "@mjnlima/les-miserables",
+  "main": "d/d65fd7e2c13e62f4.js",
+  "version": "119.0.0",
+  "homepage": "https://observablehq.com/@mjnlima/les-miserables",
+  "author": {
+    "name": "mjnlima",
+    "url": "https://observablehq.com/@mjnlima"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
